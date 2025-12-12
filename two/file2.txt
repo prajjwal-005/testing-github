@@ -1,0 +1,4 @@
+hey there this is seond file in folder 2
+
+a bug need to be fixed 
+now in master branch
